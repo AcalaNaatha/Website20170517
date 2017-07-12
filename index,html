@@ -5,6 +5,6 @@
 <title>作品紹介</title>
 </head>
 <body>
-<div class="markdown-body container-fluid" id="doc"><h1 id="蜘蛛未完">蜘蛛(未完)</h1><p><img alt="" src="https://i.imgur.com/lF0JKXU.png"></p><h1 id="プラットフォーム">プラットフォーム</h1><ul><li>windows専用</li></ul><h2 id="作品の概要">作品の概要</h2><ul><li>ステルスゲーム</li><li>虫が人にむつからず食べ物をゴールまで運ぶ</li><li>見つかった場合gameover</li><li></li></ul><h2 id="開発期間">開発期間</h2><p>*　4ヶ月:</p><h2 id="開発人数">開発人数</h2><p>*　４人</p><h2 id="開発環境">開発環境</h2><ul><li>Unity　C#</li><li>visual Stadio 2015</li></ul><h2 id="担当個所">担当個所</h2><ul><li>敵のAI</li><li>UI</li><li>ステージ作成</li><li>リザルト画面</li></ul><h2 id="アピールポイント">アピールポイント</h2><ul><li>壁歩きというユニークな要素があります<br>*他に魚もあります</li></ul></div>
+<div class="markdown-body container-fluid" id="doc"><h1 id="蜘蛛未完">蜘蛛(未完)</h1><p><img alt="" src="https://i.imgur.com/lF0JKXU.png"></p><h1 id="プラットフォーム">プラットフォーム</h1><ul><li>windows専用</li></ul><h2 id="作品の概要">作品の概要</h2><ul><li>ステルスゲーム</li><li>虫が人にむつからず食べ物をゴールまで運ぶ</li><li>見つかった場合gameover</li></ul><h2 id="開発期間">開発期間</h2><p>4ヶ月:</p><h2 id="開発人数">開発人数</h2><p>４人</p><h2 id="開発環境">開発環境</h2><ul><li>Unity　C#</li><li>visual Stadio 2015</li></ul><h2 id="担当個所">担当個所</h2><ul><li>敵のAI</li><li>UI</li><li>ステージ作成</li><li>リザルト画面</li></ul><h2 id="アピールポイント">アピールポイント</h2><ul><li>壁歩きというユニークな要素があります<br>*他に魚もあります</li></ul></div>
 </body>
 </html>
